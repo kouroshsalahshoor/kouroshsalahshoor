@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I+am+Kourosh+Salahshoor;Blazor+.Net%2C+C%23+system+architect;Welcome+to+my+Github+page+%3A%29)](https://git.io/typing-svg)
+
+- 🔭 I’m currently working on [www.narakop.com](https://www.narakop.com)
+- 📫 You can reach me via: 
+  - kourosh23@hotmail.com
+  - +46700284002
+
 <!--
 **kouroshsalahshoor/kouroshsalahshoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

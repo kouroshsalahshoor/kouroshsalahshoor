@@ -6,6 +6,17 @@
 
 I'm a system architect and full-stack software developer passionate about building useful, beautiful, and scalable applications.
 
+💼 Full Stack Web Developer & Software Architect
+
+✅ .NET, Blazor, C#, MVC, Razor Pages  
+✅ Microservices, DDD, CQRS, MediatR  
+✅ Azure, Docker, Aspire, DevOps  
+✅ AI, RAG, Semantic Kernel, Ollama  
+✅ SQL Server, PostgreSQL, Cosmos DB  
+✅ Tech Lead & CTO experience  
+✅ Building SaaS products such as NaraKop  
+
+
 Currently, I'm developing **NaraKop**, a SaaS platform built with:
 
 - ⚡ Blazor Server (.NET 10)
